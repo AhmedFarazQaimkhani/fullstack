@@ -29,7 +29,8 @@ Following instructions will get you a copy of the project up and running on your
     ```bash
     npm install
 
-    # once node_modules gets install, run next command it will run both project because I have used turbo repo
+    # once node_modules gets install, run next command it will run both project because I have
+    # used turbo repo
     npm run dev
 
     # If you wanna run frontend seperately route to apps/frontend then run
