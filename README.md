@@ -1,6 +1,6 @@
 ## General Information
 
-- In my fullstack project, I used TurboRepo for its efficient management of multiple packages and shared dependencies, streamlining our development process. I implemented sign-in and sign-up functionalities to showcase our fullstack skills, demonstrating our capability in handling user authentication and secure data flow between the client and server
+- In my full stack project, I used TurboRepo for its efficient management of multiple packages and shared dependencies, streamlining our development process. I implemented sign-in and sign-up functionalities to showcase my fullstack skills, demonstrating my capability in handling user authentication and secure data flow between the client and server
 
 ## Features
 
